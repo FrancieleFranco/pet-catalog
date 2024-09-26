@@ -1,0 +1,32 @@
+.animal-item {
+  padding: 15px;
+}
+
+.animal-item img {
+  width: 200px; 
+  height: 150px;
+  object-fit: cover; 
+  border-radius: 10px;
+}
+
+.animal-item h3 {
+  font-size: 1.5em;
+  margin: 10px 0;
+  color: #333;
+}
+
+.animal-item p {
+  color: #666;
+}
+
+.animal-item button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color:  #333;
+  color: white; 
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s; 
+  margin: 10px
+}

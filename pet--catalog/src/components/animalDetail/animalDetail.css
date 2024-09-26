@@ -1,0 +1,21 @@
+.animal-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.animal-detail img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.animal-detail h2 {
+  font-size: 2em;
+  color: #333;
+}
+
+.animal-detail p {
+  color: #666;
+  text-align: center;
+  max-width: 600px;
+}
